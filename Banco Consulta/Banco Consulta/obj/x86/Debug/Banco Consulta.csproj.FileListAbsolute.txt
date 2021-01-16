@@ -1,0 +1,21 @@
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\bin\Debug\Banco Consulta.exe
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\bin\Debug\Banco Consulta.pdb
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\obj\x86\Debug\Banco_Consulta.Form1.resources
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\obj\x86\Debug\Banco_Consulta.Properties.Resources.resources
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\obj\x86\Debug\Banco Consulta.csproj.GenerateResource.Cache
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\obj\x86\Debug\Banco Consulta.exe
+C:\Users\Pichau\AppData\Local\Temporary Projects\Banco Consulta\obj\x86\Debug\Banco Consulta.pdb
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco Consulta.exe
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco Consulta.pdb
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\bin\Debug\Banco Consulta.exe
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\bin\Debug\Banco Consulta.pdb
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.CriarConta.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Form1.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco Consulta.csproj.GenerateResource.Cache
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco Consulta.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Consultar.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Deposito.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Sacar.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Transferencia.resources
+C:\Users\Pichau\Desktop\AT\Banco Consulta\Banco Consulta\obj\x86\Debug\Banco_Consulta.Deletar.resources
